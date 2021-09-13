@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "526784005288",
+    "firebase_url": "https://meu-filme-5f43b-default-rtdb.firebaseio.com",
+    "project_id": "meu-filme-5f43b",
+    "storage_bucket": "meu-filme-5f43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526784005288:android:de3ae007e4bdd7636f6e9d",
+        "android_client_info": {
+          "package_name": "com.example.meu_filme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526784005288-blgfh3s7pa98i3h08uv66vuvj93rs9h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0-Em6pFJRl1IO-9ArlhISJG0G-bYgxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526784005288-blgfh3s7pa98i3h08uv66vuvj93rs9h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
